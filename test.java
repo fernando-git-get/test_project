@@ -6,6 +6,6 @@ class A
         System.out.println("hi");
         System.out.println("hello");
         System.out.println("test");
-        System.out.println("ok then");
+        System.out.println("ok thden");
     }
 }
